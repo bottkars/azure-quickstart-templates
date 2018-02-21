@@ -17,7 +17,7 @@ To deploy this template using the scripts from the root of this repo: (change th
 azure-group-deploy.sh -a '301-availability-set-elastic-storage-ecs' -l eastus 
 ```
 
-This template deploys a **multinode dellemc ecs community edition**. The **ecs community edition** is a **elastic cloud storage solution providing object storage (sr, atoms, cas)**
+This template deploys a **multinode dellemc ecs community edition**. The **ecs community edition** is a **elastic cloud storage solution providing object storage (S3, Atmos, CAS)**
 
 `Tags: arm, centos, ecs, ecs community edition`
 
